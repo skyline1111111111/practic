@@ -1,0 +1,274 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Главная";
+}
+
+
+
+<div class="container-main">
+    <div class="main">
+        <h1 class="main-title lvl1 font-monospace">ГБПОУ РО<span>«РКРИПТ»</span></h1>
+        <h2 class="main-title lvl2">Государственное бюджетное профессиональное образовательное учреждение Ростовской области <span> «Ростовский-на-Дону колледж радиоэлектроники, информационных и промышленных технологий».</span></h2>
+        <div class="btn-container">
+            <h3 class="main-title lvl3 text-decoration-underline">Оставь заявку</h3>
+            <button class="main-btn">Оставить</button>
+        </div>
+    </div>
+</div>
+
+<div class="container-info container">
+    <div class="info">
+        <div class="info-text col">
+            <h1 class="info-title display-1">РКРИПТ СЕГОДНЯ</h1>
+            <ul class="list-group-flush fs-5">
+                <li>29 лабораторий</li>
+                <li>59 кабинетов</li>
+                <li>учебно-вычислительный центр с 17 компьютерными классами с возможностью выхода в Интернет</li>
+                <li>учебно-производственные мастерские для проведения слесарной, механической, радиомонтажной практик</li>
+                <li>библиотека с читальным залом. По пути следования в библиотеку для лиц с нарушениями опорно-двигательного аппарата установлен подъемник</li>
+                <li>2 столовых с горячим питанием и буфетной продукцией на 100 посадочных мест (в т.ч. для лиц с ОВЗ и инвалидов)</li>
+                <li>4 спортивных зала</li>
+                <li>лицензированный пункт медицинского обслуживания</li>
+                <li>актовый зал на 200 посадочных мест, оснащенный мультимедиа, радиоаппаратурой</li>
+                <li>общежитие</li>
+            </ul>
+        </div>
+        <div class="col info-img">
+            <img style="display:block; border-radius: 100px 0 0; box-shadow: black 30px 30px 1px;" src="~/images/main/infoimgg.png" />
+       </div>
+    </div>
+</div>
+
+<div class="container-reviews">
+        <h1 class="reviews-title">Отзывы о колледже</h1>
+        <div class="swiper swiper-reviews reviews">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="reviews-item">
+                    <h1 class="reviews-item__author">Кирилл Бирюлин</h1>
+                    <h2 class="reviews-item__date">31.05.2023</h2>
+                    <p class="reviews-item__text">
+                        Колледж рекомендую всем,за 4 года много всему научили,учителя все высшего класса и приветливые,всегда идут на встречу!
+                        Каждый год ходили поздравляли ветеранов,гуманитарные помощи.
+                        Много кружков,выездов от колледжа и много всего интересного!!!
+                    </p>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="reviews-item">
+                    <h1 class="reviews-item__author">Анна Х.</h1>
+                    <h2 class="reviews-item__date">14.05.2023</h2>
+                    <p class="reviews-item__text">
+                        Как место где можно посидеть, попить кофе(отличная кофейня в соседнем здании) это просто идеальный вариант, уютный красивый скверик перед колледжем, 2-3 магазина в шаговой доступности, как образовательное учреждение колледж довольно неплох, в большинстве своем преподаватели хорошие, студенты веселые.
+                    </p>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="reviews-item">
+                    <h1 class="reviews-item__author">Арсений Емцев</h1>
+                    <h2 class="reviews-item__date">5.02.2023</h2>
+                    <p class="reviews-item__text">
+                        Отличный колледж! Всем советую.
+                    </p>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="reviews-item">
+                    <h1 class="reviews-item__author">Дмитрий</h1>
+                    <h2 class="reviews-item__date">17.01.2023</h2>
+                    <p class="reviews-item__text">
+                        Отучился на РАС.<br/>
+                        В плане преподавания у кого есть желание учиться - свое получат, у кого нет - выйдут без знаний. Преподы очень адекватные.
+                    </p>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="reviews-item">
+                    <h1 class="reviews-item__author">Мария Пономарева</h1>
+                    <h2 class="reviews-item__date">22.11.2022</h2>
+                    <p class="reviews-item__text">
+                        Отличный колледж! Достойный уровень образования и преподавательский состав.
+                    </p>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="reviews-item">
+                    <h1 class="reviews-item__author">Антон</h1>
+                    <h2 class="reviews-item__date">15.09.2022</h2>
+                    <p class="reviews-item__text">
+                        Колледж, где надо учиться! Воспитывает самостоятельность и готовит к взрослой жизни.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+    </div>
+</div>
+
+<div class="container-specialisations">
+    <div class="specialisations">
+        <div class="specialisations-content">
+            <div class="specialisations-content-arrow">
+                <img style="width: 100%; height: 100%" src="~/images/main/arrow.png" />
+            </div>
+          
+            <div class="specialisations-content-group">
+                <h1 class="specialisations-title">Наши специальности</h1>
+                <p>
+                    Наш колледж предлагает большой выбор специальностей в направлениях: IT-информационные технологии, промышленные технологии и радиоэлектроника.
+                </p>
+            </div>
+                <div class="specialisation-link">
+                    <a id="spcBtn" asp-page="/Специальности/SpecialisationsList">→</a>
+                </div>
+        </div>
+        <div class="specialisations-group">
+            <div class="specialisations-item">
+                <h1>Компьютерные системы и комплексы </h1>
+                <img style="width: 100%; height: 100%; object-fit: cover;" src="~/images/main/specimg2.png" />
+            </div>
+            <div class="specialisations-item">
+                <h1>Программист </h1>
+                <img style="width: 100%; height: 100%; object-fit: cover;" src="~/images/main/specimg3.png" />
+            </div>
+            <div class="col specialisations-item">
+                <h1>Специалист по информационным системам </h1>
+                <img style="width: 100%; height: 100%; object-fit: cover;" src="~/images/main/specimg4.png" />
+            </div>
+            <div class="specialisations-item">
+                <h1>Разработчик веб и мультимедийных приложений </h1>
+                <img style="width: 100%; height: 100%; object-fit: cover;" src="~/images/main/specimg1.png" />
+            </div>
+        </div>
+     </div>
+ </div>   
+
+<div class="container-request">
+    <div class="request">
+        <div class="request-content col">
+            <h1>Почему именно мы?</h1>
+            <ul>
+                <li><span>1</span> Качественное обучение</li>
+                <li><span>2</span> Помощь с трудоустройством</li>
+                <li><span>3</span> Современные специальности</li>
+                <li><span>4</span> Отличные учителя</li>
+            </ul>
+        </div>
+        <div class="request-form col">
+            <form method="post" asp-page-handler="AddRequest" id="requestForm" >
+                <h1>Оставить заявку</h1>
+                <div style="display: flex; flex-direction: column">
+                    <select class="request-form__select" required name="special1" asp-for="request.Special1">
+                        @*<option disabled selected>Выбрать специальность</option>*@
+                        @for (int i = 0; i < Model.Specialisations.Count; i++)
+                        {
+                            <option>@Model.Specialisations[i].Name</option>
+                        }
+                    </select>
+                    <select class="request-form__select" required name="special2" asp-for="request.Special2">
+                        @*<option disabled selected>Выбрать специальность</option>*@
+                        @for (int i = 0; i < Model.Specialisations.Count; i++)
+                        {
+                            <option>@Model.Specialisations[i].Name</option>
+                        }
+                    </select>
+                    <select class="request-form__select" required name="special3" asp-for="request.Special3">
+                       @* <option disabled selected>Выбрать специальность</option>*@
+                        @for (int i = 0; i < Model.Specialisations.Count; i++)
+                        {
+                            <option>@Model.Specialisations[i].Name</option>
+                        }
+                    </select>
+                </div>
+                    <div class="request-form__item">
+                    <input type="text" name="fullName" required asp-for="request.FullName">
+                        <span class="request-form__item__highlight"></span>
+                        <span class="request-form__item__bar"></span>
+                        <h6>ФИО</h6>
+                    </div>
+                    <div class="request-form__item">
+                    <input class="mask-phone" type="tel" name="phone" required asp-for="request.Phone">
+                        <span class="request-form__item__highlight"></span>
+                        <span class="request-form__item__bar"></span>
+                        <h6>Телефон</h6>
+                    </div>
+                    <div class="request-form__item" >
+                        <input type="email" name="email" required asp-for="request.Email">
+                        <span class="request-form__item__highlight"></span>
+                        <span class="request-form__item__bar"></span>
+                        <h6>Почта</h6>
+                    </div>
+                <input class="requset-form__btn" type="submit" />
+            </form>
+        </div>
+     </div>
+ </div>
+
+<div class="container-comment">
+    <div class="comment">
+        <h1>Оставить отзыв</h1>
+        <p>Оставив отзыв о сайте, вы помогаете нам в улучшении его качества.</p>
+        <form method="post" asp-page-handler="AddReview" id="reviewForm">
+            <div class="comment__item">
+                <h2 style="margin-top: 10px">Оценка</h2>
+                <div class="rating-area">
+                    <input type="radio" id="star-5" name="rate" required value="5">
+                    <label for="star-5" title="Оценка «5»"></label>
+                    <input type="radio" id="star-4" name="rate" required value="4">
+                    <label for="star-4" title="Оценка «4»"></label>
+                    <input type="radio" id="star-3" name="rate" required value="3">
+                    <label for="star-3" title="Оценка «3»"></label>
+                    <input type="radio" id="star-2" name="rate"  required value="2">
+                    <label for="star-2" title="Оценка «2»"></label>
+                    <input type="radio" id="star-1" name="rate" required value="1">
+                    <label for="star-1" title="Оценка «1»" ></label>
+                </div>
+            </div>
+            <div class="comment__item" style="flex-direction: column">
+                <h2>Комментарий</h2>
+                <textarea type="text" name="comment" value="Введите комментарий"></textarea>
+            </div>
+            <input class="comment-btn" type="submit" value="Оставить отзыв" />
+        </form>   
+    </div>
+</div>
+
+<div class="container-video">
+    <video style=" display: block; width: 100%; height: 100%; object-fit: cover; margin: 0; padding: 0;" controls="controls" preload="none" poster="~/images/main/videoBack.png">
+        <source src="~/videos/rkript.mp4" type='video/mp4;'>
+    </video>
+</div> 
+
+
+
+
+<script>
+    $('#reviewForm').submit(function () {
+        Swal.fire({
+            position: 'center',
+            icon: 'success',
+            title: 'Отзыв был оставлен',
+            showConfirmButton: false,
+        })
+        return true;
+    });
+    $('#requestForm').submit(function () {
+        Swal.fire({
+                position: 'center',
+                icon: 'success',
+                title: 'Заявка была отправлена',
+                showConfirmButton: false,
+            })
+    }); 
+    document.body.querySelector('.main-btn').addEventListener('click', ()=> {
+        const elemCoords = document.body.querySelector('.request').getBoundingClientRect();
+        const windScroll = window.pageYOffset || document.documentElement.scrollTop;
+        window.scrollTo({
+            top: elemCoords.top + windScroll,
+            behavior: "smooth",
+        })
+    })
+</script>

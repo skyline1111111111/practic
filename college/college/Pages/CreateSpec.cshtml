@@ -1,0 +1,84 @@
+﻿@page
+@model college.Pages.CreateSpecModel
+@{
+
+}
+
+<style>
+.container-edit {
+    padding: 100px;
+}
+
+form {
+    height: 100%;
+}
+a {
+    font-size: 30px;
+    margin: 50px 0px;
+}
+.form-group  {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.butt {
+    display: block;
+    border: none;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 10px;
+    background: dodgerblue;
+    cursor: pointer;
+    transition: 0.5s;
+    margin: 20px auto;
+}
+.butt:hover {
+    background: blue;
+}
+
+input {
+    font-size: 25px;
+    padding: 10px;
+}
+label {
+    font-size: 20px;
+}
+
+</style>
+
+<div class="container container-edit">
+    <a style="margin-bottom: 20px;" class="link-dark" asp-page="AdminPanel">Назад</a>
+    <form style="margin-top: 50px;" method="post" enctype="multipart/form-data">
+        <div class="form-group ">
+            <label for="name">Название</label>
+            <input type="text" name="name" class="form-control" required placeholder="название..."/>
+        </div>
+        <div class="form-group">
+            <label for="code">Код</label>
+            <input type="text" name="code" class="form-control" required placeholder="код..." />
+        </div>
+        <div class="form-group">
+            <label for="description">Описание</label>
+            <textarea rows="5" name="description" class="form-control" required ></textarea>
+        </div>
+        <div class="form-group">
+            <label for="pdfLink">Ссылка на PDF</label>
+            <input type="file" accept="pdf/*" name="pdfLink" class="form-control" required placeholder="PDF Файл" />
+        </div>
+        <div class="form-group">
+            <label for="excelLink">Ссылка на Excel</label>
+            <input type="file" accept="excel/*"  name="excelLink" class="form-control" required placeholder="Excel Файл" />
+        </div>
+        <div class="form-group">
+            <label for="photo">Ссылка на изображение</label>
+            <input type="file" accept="image/*" name="photo" class="form-control" required placeholder="Изображение" />
+           @* <div id="imgCon" style="width: 300px; height: 300px; margin: 20px 0;"></div>*@
+        </div>
+        <input type="submit" class="butt" value="Создать"/>
+    </form>
+</div>
+
+
+

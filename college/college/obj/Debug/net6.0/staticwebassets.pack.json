@@ -1,0 +1,1769 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Андрей\\.nuget\\packages\\datatables.net-dt\\1.13.6\\contentFiles\\any\\any\\wwwroot\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\.nuget\\packages\\datatables.net-dt\\1.13.6\\contentFiles\\any\\any\\wwwroot\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\.nuget\\packages\\datatables.net-dt\\1.13.6\\contentFiles\\any\\any\\wwwroot\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\.nuget\\packages\\datatables.net-dt\\1.13.6\\contentFiles\\any\\any\\wwwroot\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\college.bundle.scp.css",
+      "PackagePath": "staticwebassets\\college.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\09.02.01.xls",
+      "PackagePath": "staticwebassets\\excel\\09.02.01.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\09.02.07.xls",
+      "PackagePath": "staticwebassets\\excel\\09.02.07.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\11.02.16.xls",
+      "PackagePath": "staticwebassets\\excel\\11.02.16.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\11.02.17.xls",
+      "PackagePath": "staticwebassets\\excel\\11.02.17.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\15.02.14.xls",
+      "PackagePath": "staticwebassets\\excel\\15.02.14.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\15.02.16.xls",
+      "PackagePath": "staticwebassets\\excel\\15.02.16.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\38.02.01.xls",
+      "PackagePath": "staticwebassets\\excel\\38.02.01.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\excel\\46.02.01.xls",
+      "PackagePath": "staticwebassets\\excel\\46.02.01.xls"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\fonts\\FrederickatheGreat-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\FrederickatheGreat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\fonts\\MADEGoodTimeScript.otf",
+      "PackagePath": "staticwebassets\\fonts\\MADEGoodTimeScript.otf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\fonts\\Onest.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Onest.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\admin\\adm.jpg",
+      "PackagePath": "staticwebassets\\images\\admin\\adm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\3.png",
+      "PackagePath": "staticwebassets\\images\\description\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\description\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\partners\\1.png",
+      "PackagePath": "staticwebassets\\images\\description\\partners\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\partners\\2.png",
+      "PackagePath": "staticwebassets\\images\\description\\partners\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\partners\\3.png",
+      "PackagePath": "staticwebassets\\images\\description\\partners\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\partners\\4.png",
+      "PackagePath": "staticwebassets\\images\\description\\partners\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\partners\\5.png",
+      "PackagePath": "staticwebassets\\images\\description\\partners\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\description\\partners\\6.png",
+      "PackagePath": "staticwebassets\\images\\description\\partners\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\1.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\10.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\2.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\3.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\4.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\5.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\6.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\7.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\8.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\imgs\\9.png",
+      "PackagePath": "staticwebassets\\images\\imgs\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\layout\\logo.png",
+      "PackagePath": "staticwebassets\\images\\layout\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\layout\\telegram.svg",
+      "PackagePath": "staticwebassets\\images\\layout\\telegram.svg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\layout\\vk.svg",
+      "PackagePath": "staticwebassets\\images\\layout\\vk.svg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\layout\\youtube.svg",
+      "PackagePath": "staticwebassets\\images\\layout\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\main\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\background.png",
+      "PackagePath": "staticwebassets\\images\\main\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\bg.png",
+      "PackagePath": "staticwebassets\\images\\main\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\infoimg.jpg",
+      "PackagePath": "staticwebassets\\images\\main\\infoimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\infoimg.png",
+      "PackagePath": "staticwebassets\\images\\main\\infoimg.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\infoimgg.png",
+      "PackagePath": "staticwebassets\\images\\main\\infoimgg.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\reviewsImg.png",
+      "PackagePath": "staticwebassets\\images\\main\\reviewsImg.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\specialBack.png",
+      "PackagePath": "staticwebassets\\images\\main\\specialBack.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\specimg1.png",
+      "PackagePath": "staticwebassets\\images\\main\\specimg1.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\specimg2.png",
+      "PackagePath": "staticwebassets\\images\\main\\specimg2.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\specimg3.png",
+      "PackagePath": "staticwebassets\\images\\main\\specimg3.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\specimg4.png",
+      "PackagePath": "staticwebassets\\images\\main\\specimg4.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\images\\main\\videoBack.png",
+      "PackagePath": "staticwebassets\\images\\main\\videoBack.png"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\Jakefile",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\demo\\datepicker.html",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\demo\\datepicker.html"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\demo\\index.html",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\demo\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\dist\\jquery.maskedinput.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\dist\\jquery.maskedinput.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\dist\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\dist\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\lib\\jquery-1.8.3.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\lib\\jquery-1.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\maskedinput.jquery.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\maskedinput.jquery.json"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\plugin.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\plugin.json"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Backspace.Spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Backspace.Spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Delete.spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Delete.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Escape.Spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Escape.Spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Focus.Spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Focus.Spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Paste.Spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Paste.Spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Raw.Spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Raw.Spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Setup.Spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Setup.Spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\SpecRunner.html",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\SpecRunner.html"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\Typing.Spec.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\Typing.Spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\BSD.LICENSE",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\BSD.LICENSE"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\jasmine-be-calm.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\jasmine-be-calm.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\jasmine-grammar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\jasmine-grammar.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\jasmine-reporting.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\jasmine-reporting.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\version.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine-species\\version.json"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\MIT.LICENSE",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\MIT.LICENSE"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\jasmine-html.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\jasmine-html.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\jasmine.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\jasmine.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\jasmine.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jasmine\\jasmine.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\jquery.keymasher.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\jquery.keymasher.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\spec\\lib\\matchers.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\spec\\lib\\matchers.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\src\\jquery.maskedinput.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\src\\jquery.maskedinput.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-maskinput\\templates\\jquery.maskedinput.template",
+      "PackagePath": "staticwebassets\\lib\\jquery-maskinput\\templates\\jquery.maskedinput.template"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\README.md",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\dist\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\dist\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\dist\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\dist\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\dist\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\dist\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\dist\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\dist\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\dist\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\dist\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\dist\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\dist\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\package.json",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\SweetAlert.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\SweetAlert.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\buttons-handlers.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\buttons-handlers.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\constants.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\constants.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\globalState.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\globalState.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods\\_destroy.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods\\_destroy.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods\\close.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods\\close.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods\\enable-disable-elements.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods\\enable-disable-elements.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods\\getInput.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods\\getInput.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods\\hideLoading.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods\\hideLoading.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods\\update.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods\\update.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\instanceMethods\\validation-message.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\instanceMethods\\validation-message.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\keydown-handler.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\keydown-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\popup-click-handler.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\popup-click-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\privateMethods.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\privateMethods.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\privateProps.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\privateProps.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_animations.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_body.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_body.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_theming.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_theming.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_toasts-animations.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_toasts-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_toasts-body.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_toasts-body.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods\\argsToParams.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods\\argsToParams.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods\\bindClickHandler.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods\\bindClickHandler.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods\\dom.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods\\dom.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods\\fire.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods\\fire.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods\\mixin.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods\\mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods\\showLoading.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods\\showLoading.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\staticMethods\\timer.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\staticMethods\\timer.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\sweetalert2.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\sweetalert2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\types.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\types.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\DismissReason.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\DismissReason.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\Timer.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\Timer.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\aria.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\aria.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\classes.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\defaultInputValidators.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\defaultInputValidators.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\dom\\animationEndEvent.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\dom\\animationEndEvent.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\dom\\domUtils.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\dom\\domUtils.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\dom\\getters.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\dom\\getters.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\dom\\index.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\dom\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\dom\\init.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\dom\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\dom\\inputUtils.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\dom\\inputUtils.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\dom\\parseHtmlToContainer.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\dom\\parseHtmlToContainer.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\getTemplateParams.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\getTemplateParams.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\iosFix.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\iosFix.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\isNodeEnv.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\isNodeEnv.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\openPopup.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\openPopup.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\params.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\params.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\setParameters.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\setParameters.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\utils\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\utils\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\src\\variables.scss",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\src\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\sweetalert2\\package\\sweetalert2.d.ts",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\package\\sweetalert2.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\README.md",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\a11y.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\a11y.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\autoplay-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\autoplay-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\autoplay-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\autoplay-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\autoplay.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\autoplay.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\autoplay.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\autoplay.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\autoplay.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\autoplay.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\autoplay.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\autoplay.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\autoplay.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\autoplay.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\controller.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\controller.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\controller.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\controller.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\controller.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\controller.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\controller.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\controller.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\controller.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\controller.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cards.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-coverflow.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-coverflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-creative-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-creative-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-creative-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-creative-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-creative.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-creative.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-creative.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-creative.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-creative.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-creative.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-creative.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-creative.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-creative.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-creative.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cube-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cube-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cube.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cube.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cube.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cube.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cube.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cube.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cube.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cube.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-cube.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-cube.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-fade-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-fade-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-fade-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-fade-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-fade.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-fade.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-fade.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-fade.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-fade.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-fade.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-fade.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-fade.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-fade.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-fade.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-flip-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-flip-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-flip-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-flip-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-flip.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-flip.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-flip.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-flip.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-flip.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-flip.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\effect-flip.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\effect-flip.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\free-mode-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\free-mode-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\free-mode.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\free-mode.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\free-mode.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\free-mode.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\free-mode.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\free-mode.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\free-mode.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\free-mode.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\free-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\free-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\grid-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\grid-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\grid.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\grid.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\grid.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\grid.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\grid.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\grid.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\grid.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\grid.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\grid.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\hash-navigation-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\hash-navigation-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\hash-navigation.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\hash-navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\hash-navigation.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\hash-navigation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\hash-navigation.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\hash-navigation.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\hash-navigation.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\hash-navigation.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\hash-navigation.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\hash-navigation.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\hash-navigation.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\hash-navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\history-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\history-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\history-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\history-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\history.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\history.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\history.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\history.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\history.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\history.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\history.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\history.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\history.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\history.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\index.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\index.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\index.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\index.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\index.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\index.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\keyboard.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\keyboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\manipulation.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\manipulation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\mousewheel.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\mousewheel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\navigation-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\navigation-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\navigation.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\navigation.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\navigation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\navigation.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\navigation.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\navigation.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\navigation.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\navigation.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\navigation.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\pagination-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\pagination-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\pagination.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\pagination.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\pagination.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\pagination.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\pagination.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\pagination.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\pagination.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\pagination.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\pagination.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\pagination.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\parallax-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\parallax-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\parallax.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\parallax.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\parallax.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\parallax.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\parallax.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\parallax.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\parallax.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\parallax.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\parallax.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\parallax.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\scrollbar-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\scrollbar-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\scrollbar.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\scrollbar.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\scrollbar.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\scrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\scrollbar.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\scrollbar.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\scrollbar.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\thumbs-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\thumbs-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\thumbs.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\thumbs.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\thumbs.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\thumbs.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\thumbs.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\thumbs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\thumbs.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\thumbs.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\thumbs.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\thumbs.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\thumbs.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\thumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual-element.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual-element.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\virtual.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\virtual.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\zoom-element.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\zoom-element.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\zoom.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\zoom.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\zoom.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\zoom.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\modules\\zoom.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\modules\\zoom.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\package.json",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\classes-to-selector.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\classes-to-selector.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\classes-to-selector.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\classes-to-selector.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\classes-to-selector.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\classes-to-selector.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\create-element-if-not-defined.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\create-element-if-not-defined.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\create-element-if-not-defined.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\create-element-if-not-defined.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\create-element-if-not-defined.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\create-element-if-not-defined.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\create-shadow.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\create-shadow.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\create-shadow.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\create-shadow.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\create-shadow.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\create-shadow.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-init.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-init.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-init.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-init.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-init.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-init.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-target.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-target.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-target.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-target.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-target.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-target.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-virtual-transition-end.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-virtual-transition-end.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-virtual-transition-end.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-virtual-transition-end.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\effect-virtual-transition-end.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\effect-virtual-transition-end.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\get-element-params.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\get-element-params.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\get-element-params.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\get-element-params.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\get-element-params.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\get-element-params.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\ssr-window.esm.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\ssr-window.esm.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\ssr-window.esm.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\ssr-window.esm.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\ssr-window.esm.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\ssr-window.esm.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\swiper-core.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\swiper-core.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\swiper-core.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\swiper-core.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\swiper-core.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\swiper-core.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\update-on-virtual-data.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\update-on-virtual-data.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\update-on-virtual-data.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\update-on-virtual-data.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\update-on-virtual-data.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\update-on-virtual-data.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\update-swiper.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\update-swiper.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\update-swiper.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\update-swiper.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\update-swiper.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\update-swiper.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\utils.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\utils.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\utils.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\utils.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\shared\\utils.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\shared\\utils.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-bundle.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-bundle.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element-bundle.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element-bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element-bundle.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element-bundle.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element-bundle.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element-bundle.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element-bundle.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element-bundle.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element.d.ts",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-element.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-element.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-react.d.ts",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-react.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-react.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-react.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-vars.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-vars.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-vars.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-vars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-vue.d.ts",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-vue.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper-vue.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper-vue.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.d.ts",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.less",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.less"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.min.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.min.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.min.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.min.mjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.mjs",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\lib\\swiper\\package\\swiper.scss",
+      "PackagePath": "staticwebassets\\lib\\swiper\\package\\swiper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\09.02.01.pdf",
+      "PackagePath": "staticwebassets\\pdf\\09.02.01.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\09.02.07-IS.pdf",
+      "PackagePath": "staticwebassets\\pdf\\09.02.07-IS.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\09.02.07-PO.pdf",
+      "PackagePath": "staticwebassets\\pdf\\09.02.07-PO.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\09.02.07-VEB.pdf",
+      "PackagePath": "staticwebassets\\pdf\\09.02.07-VEB.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\11.02.16.pdf",
+      "PackagePath": "staticwebassets\\pdf\\11.02.16.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\11.02.17.pdf",
+      "PackagePath": "staticwebassets\\pdf\\11.02.17.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\15.02.14.pdf",
+      "PackagePath": "staticwebassets\\pdf\\15.02.14.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\15.02.16.pdf",
+      "PackagePath": "staticwebassets\\pdf\\15.02.16.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\38.02.01.pdf",
+      "PackagePath": "staticwebassets\\pdf\\38.02.01.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\pdf\\46.02.01.pdf",
+      "PackagePath": "staticwebassets\\pdf\\46.02.01.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Андрей\\Desktop\\final\\college\\college\\wwwroot\\videos\\rkript.mp4",
+      "PackagePath": "staticwebassets\\videos\\rkript.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.college.props",
+      "PackagePath": "build\\college.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.college.props",
+      "PackagePath": "buildMultiTargeting\\college.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.college.props",
+      "PackagePath": "buildTransitive\\college.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.college.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

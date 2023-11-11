@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/college.styles.css" asp-append-version="true" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <link rel="stylesheet" href="~/lib/swiper/package/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="~/lib/sweetalert2/package/dist/sweetalert2.min.css">
+    <link href="https://cdn.datatables.net/v/dt/dt-1.13.6/datatables.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" >
+    
+</head>
+<body>
+    <div id="btnUp">&#8743</div>
+    <header class="header" style="background-color: #101010; box-shadow: 0px 3px 1px #101010;">
+        <div class="header__body">
+            <div class="header__logo">
+                <a asp-page="/Index"><img src="~/images/layout/logo.png" /></a>
+            </div>
+            <ul class="header__menu" style="margin-bottom: 0">
+                <li class="header__menu__item"><a asp-page="/Index">Главная</a></li>
+                <li class="header__menu__item"><a asp-page="/Специальности/SpecialisationsList">Специальности</a></li>
+                <li class="header__menu__item"><a asp-page="/Description">О нас</a></li>
+                <li class="header__menu__item"><a asp-page="/Contact">Контакты</a></li>
+            </ul>
+        </div>
+    </header>
+
+     @RenderBody()
+
+    <footer class="container-foter">
+        <div class="foter">
+            <h1>© 2023 RKRIPT.ru</h1>
+            <div style="display: flex; align-items: center">
+                <a target="_blank"  href="https://t.me/s/RKIPT"><img style="width: 50px; height: 50px; margin-right: 25px; cursor: pointer" src="~/images/layout/telegram.svg" /></a>
+                <a target="_blank"  href="https://vk.com/rkript"><img style="width: 50px; height: 50px; margin-right: 25px; cursor: pointer" src="~/images/layout/vk.svg" /></a>
+                <a target="_blank"  href="https://www.youtube.com/@@---1920"><img style="width: 50px; height: 50px; margin-right: 25px; cursor: pointer" src="~/images/layout/youtube.svg" /></a>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="~/lib/sweetalert2/package/dist/sweetalert2.min.js"></script>
+    <script src="~/lib/swiper/package/swiper-bundle.min.js"></script>
+    <script src="~/lib/jquery-maskinput/dist/jquery.maskedinput.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/v/dt/dt-1.13.6/datatables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

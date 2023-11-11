@@ -1,0 +1,48 @@
+﻿body {
+}
+
+.container-spec {
+    height: auto;
+    margin: 100px 0px;
+}
+.spec {
+    margin: 20px auto;
+    max-width: 1600px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.spec-back {
+    margin: 100px;
+}
+.spec__group {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+.spec__group > h1 {
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    font-family: 'Onest', sans-serif;
+}
+.spec__group > h2 {
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: royalblue;
+    font-family: 'FrederickatheGreat', sans-serif;
+}
+.spec__group > p{
+    margin-bottom: 20px;
+    font-family: 'Onest', sans-serif;
+    font-size: 15px;
+    text-align: left;
+
+    white-space: pre-wrap;
+}
+.spec-img {
+    max-width: 800px;
+    height: 600px;
+    filter: drop-shadow(10px 10px 1px black);
+}

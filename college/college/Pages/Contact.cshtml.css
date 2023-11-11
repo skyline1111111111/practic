@@ -1,0 +1,30 @@
+﻿body {
+}
+.container-contact {
+    margin: 50px 0;
+}
+.contact {
+    display: flex;
+    justify-content: center;
+}
+.contact-title {
+    font-family: 'Onest', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 50px;
+}
+.contact-info__group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+.contact-info__group > h1 {
+    font-family: 'Onest', sans-serif;
+    padding-bottom: 5px;
+    font-size: 35px;
+}
+.contact-info__group > h2 {
+    font-family: 'Onest', sans-serif;
+    color: dodgerblue;
+    font-size: 30px;
+}

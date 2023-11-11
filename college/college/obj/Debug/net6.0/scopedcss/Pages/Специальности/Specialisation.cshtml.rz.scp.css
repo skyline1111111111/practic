@@ -1,0 +1,48 @@
+body[b-ms4iusu7j8] {
+}
+
+.container-spec[b-ms4iusu7j8] {
+    height: auto;
+    margin: 100px 0px;
+}
+.spec[b-ms4iusu7j8] {
+    margin: 20px auto;
+    max-width: 1600px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.spec-back[b-ms4iusu7j8] {
+    margin: 100px;
+}
+.spec__group[b-ms4iusu7j8] {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+.spec__group > h1[b-ms4iusu7j8] {
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    font-family: 'Onest', sans-serif;
+}
+.spec__group > h2[b-ms4iusu7j8] {
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: royalblue;
+    font-family: 'FrederickatheGreat', sans-serif;
+}
+.spec__group > p[b-ms4iusu7j8]{
+    margin-bottom: 20px;
+    font-family: 'Onest', sans-serif;
+    font-size: 15px;
+    text-align: left;
+
+    white-space: pre-wrap;
+}
+.spec-img[b-ms4iusu7j8] {
+    max-width: 800px;
+    height: 600px;
+    filter: drop-shadow(10px 10px 1px black);
+}

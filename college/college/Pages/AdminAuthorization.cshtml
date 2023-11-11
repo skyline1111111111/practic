@@ -1,0 +1,48 @@
+﻿@page
+@model college.Pages.Администратор.AdminAuthorizationModel
+@{
+}
+
+<div class="container-authorizathion">
+    <div class="authorizathion">
+        <div class="authorizathion-img col-sm">
+            <img style="width: 100%; display: block; height: 100%; object-fit: cover" src="~/images/admin/adm.jpg" />
+        </div>
+        <div class="authorizathion-content col-sm">
+            <form method="post" asp-page-handler="Authorization" id="adminForm">
+                <h1>Авторизация</h1>
+                <div class="authorizathion-content__group form-group">
+                    <label for="login">Логин</label>
+                    <input class="form-control" required id="adminLog"  name="login" asp-for="admin.login" type="text" />
+                </div>
+                <div class="authorizathion-content__group form-group">
+                    <label for="password">Пароль</label>
+                    <input class="form-control" required id="adminPass" name="password" asp-for="admin.password" type="password" />
+                </div>
+                <div class="authorizathion-content__group"> 
+                    <input type="submit" id="adminBtn" class="authorizathion-content__group-btn" value="Вход" />
+                </div>
+            </form>
+        </div>    
+    </div>
+</div>
+
+
+<script>
+    $('#adminForm').submit(function () {
+        if (document.getElementById('adminLog').value === "qruwer" && document.getElementById('adminPass').value === "admin") {
+            Swal.fire({
+                position: 'center',
+                title: 'Авторизация прошла успешно',
+                showConfirmButton: false,
+            })
+        }
+       else {
+            Swal.fire({
+                position: 'center',
+                title: 'Неправильные данные. попробуйте еще',
+                showConfirmButton: false,
+            })
+       }
+    });
+</script>

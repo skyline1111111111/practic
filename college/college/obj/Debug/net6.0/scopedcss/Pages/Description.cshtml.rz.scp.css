@@ -1,0 +1,47 @@
+
+.container-description[b-71fahod9uo]{
+
+}
+.container-description h1[b-71fahod9uo] {
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Onest';
+    padding: 50px 0;
+}
+.description__group[b-71fahod9uo] {
+    margin-bottom: 40px;
+}
+.description__group h2[b-71fahod9uo] {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Onest';
+    padding-bottom: 10px;
+}
+.description__group p[b-71fahod9uo] {
+    font-size: 20px;
+    font-family: 'Onest';
+
+}
+.description__group ul li[b-71fahod9uo] {
+    font-size: 20px;
+    font-family: 'Onest';
+}
+.description__group span[b-71fahod9uo] {
+    font-size: 22px;
+    font-family: 'Onest';
+    color: dodgerblue;
+}
+
+.swiperRewards[b-71fahod9uo] {
+    width:500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.description__group-grid[b-71fahod9uo] {
+    height: 30vh;
+    max-width: auto;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-template-rows: repeat(1, 1fr);
+}

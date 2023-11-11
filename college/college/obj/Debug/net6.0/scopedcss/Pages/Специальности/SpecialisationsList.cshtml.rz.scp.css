@@ -1,0 +1,91 @@
+
+body[b-k9qq62t1ii] {
+   background-color: dodgerblue;
+}
+
+.list[b-k9qq62t1ii] {
+    position: relative;
+    box-shadow: 0px 0px 5px black;
+    padding: 50px;
+    margin: 100px 0;
+}
+
+.list h1[b-k9qq62t1ii] {
+        color: black;
+        font-family: 'Onest', sans-serif;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin: 20px 0;
+}
+.list ul[b-k9qq62t1ii] {
+        position: relative;
+        font-family: 'Onest', sans-serif;
+}
+.list ul li[b-k9qq62t1ii] {
+            position: relative;
+            left: 0;
+            color: #fce4ec;
+            list-style: none;
+            margin: 4px 0;
+            border-left: 2px solid dodgerblue;
+            transition: 0.5s;
+            cursor: pointer;
+            font-size: 20px;
+}
+.list ul li:hover[b-k9qq62t1ii] {
+                left: 10px;
+}
+.list ul li span[b-k9qq62t1ii] {
+                position: relative;
+                padding: 8px;
+                padding-left: 12px;
+                display: inline-block;
+                z-index: 1;
+                transition: 0.5s;
+ }
+.list ul li:hover span[b-k9qq62t1ii] {
+                color: #111;
+            }
+.list ul li[b-k9qq62t1ii]:before {
+                content: "";
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                background: dodgerblue;
+                transform: scaleX(0);
+                transform-origin: left;
+                transition: 0.5s;
+            }
+.list ul li:hover[b-k9qq62t1ii]:before {
+                transform: scaleX(1);
+            }
+
+/*doors*/
+
+.container-doors[b-k9qq62t1ii] {
+    margin: 100px 0;
+    text-align: center;
+}
+
+.doors[b-k9qq62t1ii] {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left
+}
+
+.doors h1[b-k9qq62t1ii] {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: 'Ouset', sans-serif;
+}
+.doors h2[b-k9qq62t1ii] {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: 'Ouset', sans-serif;
+}
+.doors ul li[b-k9qq62t1ii] {
+     font-family: 'Ouset', sans-serif;
+     font-size: 20px;
+}

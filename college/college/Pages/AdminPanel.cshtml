@@ -1,0 +1,192 @@
+﻿@page
+@model college.Pages.Администратор.AdminPanelModel
+@{
+    ViewData["Title"] = "Панель администратора";
+}
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+    google.charts.load('current', { 'packages': ['corechart'] });
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+
+        var data = google.visualization.arrayToDataTable([
+            ['Оценка 1', @Model.Reviews.Count(rev => rev.Rate == 1)],
+            ['Оценка 2', @Model.Reviews.Count(rev => rev.Rate == 2)],
+            ['Оценка 3', @Model.Reviews.Count(rev => rev.Rate == 3)],
+            ['Оценка 4', @Model.Reviews.Count(rev => rev.Rate == 4)],
+            ['Оценка 5', @Model.Reviews.Count(rev => rev.Rate == 5)],
+        ]);
+
+        var options = {
+            title: 'Количество оценок сайта'
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+        chart.draw(data, options);
+    }
+</script>
+<div class="container-adminPanel">
+
+    <div style="height: 100%" class="d-flex align-items-start">
+
+    <nav class="adminPanel-menu">
+            <div style="width: 100%;" class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <button class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Специальности</button>
+                <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Заявки</button>
+                <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Отзывы</button>
+            </div>
+    </nav>
+    <div class="adminPanel-tables" style="height: 100%; width: 100%">
+            <div style="height: 100%;width: 100%; overflow-y: scroll" class="tab-content" id="v-pills-tabContent">
+            @*..Специальности*@
+                <div  class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                        <table id="specs" class="display" style="width: 100%; overflow-y: scroll;">
+                            <thead>
+                                <tr>
+                                    <th>Id</th>
+                                    <th>Name</th>
+                                    <th>Code</th>
+                                    <th>Description</th>
+                                    <th>PdfLink</th>
+                                    <th>ExcelLink</th>
+                                    <th>Photo</th>
+                                    <th>Edit</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @for (int i = 0; i < Model.Specialisations.Count; i++)
+                                {
+                                    <tr>
+                                        <td>@Model.Specialisations[i].Id</td>
+                                        <td>@Model.Specialisations[i].Name</td>
+                                        <td>@Model.Specialisations[i].Code</td>
+                                        <td>@Model.Specialisations[i].Description</td>
+                                        <td>@Model.Specialisations[i].PdfLink</td>
+                                        <td>@Model.Specialisations[i].ExcelLink</td>
+                                        <td>@Model.Specialisations[i].Photo</td>
+                                        <td>
+                                        <form method="post" style="display: flex; padding: 5px;" id="specForm">
+                                                <button style="background-color: transparent; border: none; margin-left: 6px; margin-right: 10px;" type="submit" class="link-danger" asp-page-handler="DelSpec" asp-route-id="@Model.Specialisations[i].Id">
+                                                    Удалить
+                                                </button>
+                                                <a asp-page="EditSpec" asp-route-id="@Model.Specialisations[i].Id" asp-route-num="@i" class="link-dark">Редактировать</a>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                        <a style="font-size: 30px; margin: 30px 0px;" asp-page="CreateSpec" class="link-success">Добавить специальность</a>
+                </div>
+                @*Заявки*@
+                <div  class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                    <table id="requests" class="display" style="width: 100%; overflow-y: scroll;">
+                            <thead>
+                                <tr>
+                                    <th>Id</th>
+                                    <th>Special 1</th>
+                                    <th>Special 2</th>
+                                    <th>Special 3</th>
+                                    <th>FullName</th>
+                                    <th>DateTime</th>
+                                    <th>Phone</th>
+                                    <th>Email</th>
+                                    <th>Edit</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @for (int i = 0; i < Model.Requests.Count; i++)
+                                {
+                                    <tr>
+                                        <td>@Model.Requests[i].Id</td>
+                                        <td>@Model.Requests[i].Special1</td>
+                                        <td>@Model.Requests[i].Special2</td>
+                                        <td>@Model.Requests[i].Special3</td>
+                                        <td>@Model.Requests[i].FullName</td>
+                                        <td>@Model.Requests[i].DateRequest</td>
+                                        <td>@Model.Requests[i].Phone</td>
+                                        <td>@Model.Requests[i].Email</td>
+                                        <td>
+                                        <form method="post" style="display: flex; padding: 5px;" id="reqForm">
+                                                <button style="background-color: transparent; border: none; margin-left: 6px;" type="submit" class="link-danger" asp-page-handler="DelReq" asp-route-id="@Model.Requests[i].Id">
+                                                    Удалить
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                        <div style="margin: 20px;">
+                            <form method="post" style="padding-bottom: 5px;" asp-page-handler="Excel">
+                                <label for="excel" style="margin-right: 15px">Вывод в excel</label>
+                                <input class="btn btn-success" name="excel" type="submit" value="Вывести" />
+                            </form>
+                        </div>
+                </div>
+                @*Отзывы*@
+                <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                    <table style="width: 100%; overflow-y: scroll;" id="reviews" class="display">
+                            <thead>
+                                <tr>
+                                    <th>Id</th>
+                                    <th>Rate</th>
+                                    <th>Cooment</th>
+                                    <th>DateTime</th>
+                                    <th>Edit</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @for (int i = 0; i < Model.Reviews.Count; i++)
+                                {
+                                    <tr>
+                                        <td>@Model.Reviews[i].Id</td>
+                                        <td>@Model.Reviews[i].Rate</td>
+                                        <td>@Model.Reviews[i].Comment</td>
+                                        <td>@Model.Reviews[i].Date</td>
+                                        <td>
+                                        <form method="post" style="display: flex; padding: 5px;" id="revForm">
+                                                <button style="background-color: transparent; border: none;" type="submit" class="link-danger" asp-page-handler="DelRev" asp-route-id="@Model.Reviews[i].Id">
+                                                    Удалить
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                    <h1 style="font-size: 30px; margin: 30px 0px;">Рейтинг сайта: @*@Math.Floor(Model.Reviews.Average(rev => rev.Rate))*@ @Model.avg</h1>
+                    <div id="piechart" style="width: 900px; height: 500px; margin-top: 20px;"></div>
+                </div>
+        </div>
+    </div>
+ </div>
+</div>
+<script>
+    $('#specForm').submit(function () {
+            Swal.fire({
+                position: 'center',
+                title: 'Специальность была удалена',
+                showConfirmButton: false,
+            })
+    });
+    $('#reqForm').submit(function () {
+        Swal.fire({
+            position: 'center',
+            title: 'Заявка была удалена',
+            showConfirmButton: false,
+        })
+    });
+    $('#revForm').submit(function () {
+        Swal.fire({
+            position: 'center',
+            title: 'Отзыв был удален',
+            showConfirmButton: false,
+        })
+    });
+</script>
+ 

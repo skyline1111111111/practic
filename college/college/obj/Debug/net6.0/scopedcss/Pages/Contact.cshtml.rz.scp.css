@@ -1,0 +1,30 @@
+body[b-mmi1o6mb4q] {
+}
+.container-contact[b-mmi1o6mb4q] {
+    margin: 50px 0;
+}
+.contact[b-mmi1o6mb4q] {
+    display: flex;
+    justify-content: center;
+}
+.contact-title[b-mmi1o6mb4q] {
+    font-family: 'Onest', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 50px;
+}
+.contact-info__group[b-mmi1o6mb4q] {
+    margin-bottom: 20px;
+    text-align: left;
+}
+.contact-info__group > h1[b-mmi1o6mb4q] {
+    font-family: 'Onest', sans-serif;
+    padding-bottom: 5px;
+    font-size: 35px;
+}
+.contact-info__group > h2[b-mmi1o6mb4q] {
+    font-family: 'Onest', sans-serif;
+    color: dodgerblue;
+    font-size: 30px;
+}
